@@ -1,0 +1,23 @@
+{
+  "name": "mean-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcio-ono/mean-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcio-ono/mean-shop/issues"
+  },
+  "homepage": "https://github.com/marcio-ono/mean-shop#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.2"
+  }
+}
